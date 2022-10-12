@@ -11,14 +11,17 @@ Proteus wiring diagram
 ![image](https://user-images.githubusercontent.com/56684717/195295181-0e5653e5-df06-4fa9-99a9-80feaa8111fd.png)
 
 The circuit made on the test wiring
+
 ![image](https://user-images.githubusercontent.com/56684717/195295560-b876fb54-eece-4e66-8680-a5d7bef846b7.png)
 
 Information displayed on the LCD
+
 ![image](https://user-images.githubusercontent.com/56684717/195295626-0fe29844-fa7d-447e-9157-8be2fe25b307.png)
 ![image](https://user-images.githubusercontent.com/56684717/195295652-33849c1f-ef6d-4514-a882-b3ada934a6f9.png)
 ![image](https://user-images.githubusercontent.com/56684717/195295674-a451de8b-1b3f-400e-b787-d10c8ed9aa98.png)
 
 Information displayed on the smartphone using a TCP controller app 
+
 ![image](https://user-images.githubusercontent.com/56684717/195295712-3458543b-901b-4206-9f22-022b7bd74477.png)
 
 
