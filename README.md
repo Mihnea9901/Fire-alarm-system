@@ -6,4 +6,5 @@ more detection angle, the LCD is used to display the information gathered by the
 used to send the information and the alarm message to a smartphone. 
     The Wi-Fi module is communicating with the microcontroller via UART protocol and it is configured as a server to communicate with the smartphone via
 TCP protocol.
-https://github.com/Mihnea9901/Fire-alarm-system/issues/1#issue-1405814170
+![image](https://user-images.githubusercontent.com/56684717/195295181-0e5653e5-df06-4fa9-99a9-80feaa8111fd.png)
+
